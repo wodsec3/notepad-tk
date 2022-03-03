@@ -1,2 +1,2 @@
 # notepad-tk
-Notepad verion 1.0
+Notepad version 1.0
